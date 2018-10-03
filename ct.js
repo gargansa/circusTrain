@@ -1,3 +1,18 @@
+//How To install
+//in terminal navigate to code folder (cd)
+//type 'Git clone https://github.com/gargansa/circusTrain.git'
+//Open finder
+//use Command + shift + . To show hidden
+//Drag tasks.json and ct.js into visual studio
+
+//How to run
+//in terminal type 'node ct'
+
+//How to update to Github
+// git add .
+// git 
+
+
 //There is a circus train with many cars. In each car there is an animal. The circus packed up in a rush and so many things are out of place.
 //The worker is about to eat his lunch when he notices a banana on the floor.
 //He realizes the monkey might be hungry. The rule is the animals must eat before him
