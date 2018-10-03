@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "command": "node",
+    "property": true,
+    "args": [
+        "--harmony"
+    ],
+
+    "tasks": [
+        {
+            "problemMatcher": "$jshint",
+            "label": "ct",
+            "args": ["${file}"]
+        }
+    ]
+}
