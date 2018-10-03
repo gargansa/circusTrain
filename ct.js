@@ -9,7 +9,7 @@
 //in terminal type 'node ct'
 
 //How to update to Github
-// verify in correct folder circusTrain
+// verify terminal is in correct folder circusTrain
 // git branch yourname
 // git add .
 // git commit -m "message"
