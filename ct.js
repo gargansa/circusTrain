@@ -10,9 +10,11 @@
 
 //How to update to Github
 // verify in correct folder circusTrain
+// git branch yourname
 // git add .
 // git commit -m "message"
 // git push origin master
+// git checkout yourname   //to switch to your branch
 
 
 //There is a circus train with many cars. In each car there is an animal. The circus packed up in a rush and so many things are out of place.
