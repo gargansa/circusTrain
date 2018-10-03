@@ -9,8 +9,10 @@
 //in terminal type 'node ct'
 
 //How to update to Github
+// verify in correct folder circusTrain
 // git add .
-// git 
+// git commit -m "message"
+// git push origin master
 
 
 //There is a circus train with many cars. In each car there is an animal. The circus packed up in a rush and so many things are out of place.
