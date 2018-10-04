@@ -30,7 +30,8 @@ var circusTrain = function(){
 var monkeyCar = function(){
     // find banana in the array workerItems and delete it.
     //Work Here vvvv
-    
+    workerItems.splice(1, 1);
+    console.log(workerItems);
     //Work Here ^^^^
     console.log("Monkey is " + status("monkey"))
     lionCar();
